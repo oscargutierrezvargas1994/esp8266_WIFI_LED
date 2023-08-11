@@ -25,7 +25,7 @@
 
 3.- Descargar biblioteca **esp8266** , **ArduinoJson** y **ESPAsyncWebSrv** de Herramientas -> Administrar bibliotecas... 
 
-4.- Descargar las libreria [ESPAsyncTCP](https://github.com/me-no-dev/ESPAsyncTCP) o [link](https://github.com/me-no-dev/ESPAsyncTCP/archive/refs/heads/main.zip), para posteriormente subirlo a Arduino IDE  a traves de las opciones de Programa -> Añadir fichero ... (selecionar archivo descargado)    
+4.- Descargar las libreria [ESPAsyncTCP.zip](https://github.com/me-no-dev/ESPAsyncTCP), para posteriormente subirlo a Arduino IDE  a traves de las opciones de Programa -> Añadir fichero ... (selecionar archivo descargado)    
 
 5.- Conectar y seleccionar la placa como **Generic ESP8266 Module** con el puerto correspodiente 
 
