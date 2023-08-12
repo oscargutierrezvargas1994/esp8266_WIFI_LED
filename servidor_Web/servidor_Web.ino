@@ -4,8 +4,8 @@
 #include <ESPAsyncWebServer.h>
 #include <ArduinoJson.h>
 
-const char* ssid = "COMTECO-N4147987";
-const char* password = "URLGO16560";
+const char* ssid = "********"; // Aqui nombre de la red WIFI
+const char* password = "******";    //Aqui contraseña
 
 AsyncWebServer server(80);
 
